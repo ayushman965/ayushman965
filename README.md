@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushman</h1>
-<h3 align="center">Embedded Engineer from India</h3>
+<h3 align="center">Embedded Firmware Engineer from India</h3>
 
 - 🔭 I’m currently working on **CAN Communication**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ayushman.work365@gmail.com**
 
-- ⚡ Fun fact **If u can c in c, u can c me.**
+- ⚡ Fun fact **If u can see in c, u can see me ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
